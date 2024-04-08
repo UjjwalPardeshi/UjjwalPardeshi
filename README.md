@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a machine learning enthusiast
+I'm a deep learning enthusiast
 
 
 ## 🌐 Socials:
