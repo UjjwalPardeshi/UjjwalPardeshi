@@ -20,6 +20,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=UjjwalPardeshi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&theme=tokyonight&username=Ujjwal%20Pardeshi" alt="Layout with last medium posts"  />
-</div>
+## 📝 Latest Blog Posts:
+- [Solving the Energy Crisis: Exploring the Dyson Sphere](https://medium.com/srm-astrophilia/solving-the-energy-crisis-exploring-the-dyson-sphere-939f25932270)
+- [Tracing planetary shadows : discovering exoplanets through light curve analysis](https://medium.com/srm-astrophilia/tracing-planetary-shadows-discovering-exoplanets-through-light-curve-analysis-53d9f6074ded)
