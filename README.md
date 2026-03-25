@@ -1,5 +1,4 @@
 # 💫 About Me:
-🔭 Currently working on self-supervised learning <br>
 📚 B.Tech in Computer Science & Engineering from SRMIST, Chennai. <br>
 💡 Open to collaborating on projects related to AI/ML and computer vision. <br>
 
